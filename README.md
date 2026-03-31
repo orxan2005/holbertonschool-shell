@@ -1,1 +1,1 @@
-My first permissions project
+Permissions project
